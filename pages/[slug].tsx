@@ -23,7 +23,6 @@ export async function getServerSideProps(context: any) {
 
 export default function App({ url, title, description, icon, image }: any) {
   const router = useRouter();
-
   useEffect(() => {
     router.replace(url);
   }, []);
