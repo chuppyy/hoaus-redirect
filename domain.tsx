@@ -1,1 +1,1 @@
-export const domain = "https://hoaus.livextop.com";
+export const domain = "https://hoaus.feji.io";
